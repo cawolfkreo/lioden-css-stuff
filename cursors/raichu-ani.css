@@ -2,5 +2,5 @@
 This is a CSS file intended to add a cursor to a lioden den.
 */
 body {
-	cursor: url("http://www.rw-designer.com/cursor-extern.php?id=139242"), auto;
+	cursor: url("./cursors/Raichu.gif"), auto;
 }
